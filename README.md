@@ -1,3 +1,3 @@
 # Advanced-Programming
-
-All of my files that related to my advance programming(java) in the second semester of CE at AUT.
+Advanced Programming in Java Course Asset.<br>
+[Computer Engineering Department](https://ceit.aut.ac.ir/) of [Amirkabir University of Technology](https://aut.ac.ir/).
